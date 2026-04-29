@@ -7,4 +7,4 @@ Na pasta raiz do projeto, execute:
 
 `npm run dev -- --open port 3000`
 
-![Alt Text](./dist/assets/exemplo.gif)
+![Alt Text](./exemplo.gif)
